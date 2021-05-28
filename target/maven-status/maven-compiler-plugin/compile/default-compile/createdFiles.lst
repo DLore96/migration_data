@@ -1,0 +1,6 @@
+it\prova\migrationassicurati\connection\MyConnection.class
+it\prova\migrationassicurati\test.class
+it\prova\migrationassicurati\AbstractMySQLDAO.class
+it\prova\migrationassicurati\dao\ProvaDAO.class
+it\prova\migrationassicurati\dao\Constants.class
+it\prova\migrationassicurati\model\Assicurato.class
